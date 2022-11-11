@@ -1,1 +1,0 @@
-{"name":"Local: jehgd","url":"c:\\Users\\Nilesh\\Desktop\\CP\\jehgd.cpp","tests":[{"id":1665842491006,"input":"2\n5\n1 -2 3 -2 4\n3\n1 0 3","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Nilesh\\Desktop\\CP\\jehgd.cpp","group":"local","local":true}
